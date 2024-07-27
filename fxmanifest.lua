@@ -1,4 +1,3 @@
-shared_script '@WolfShield/WolfShield.lua'
 fx_version 'cerulean'
 game 'gta5'
 
